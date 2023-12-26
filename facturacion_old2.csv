@@ -1,0 +1,68 @@
+# factura,Medio de Pago,Documento Ref.,Equivalente listo,"Fecha Efectiva de Pago
+(DD/MM/AA)",Valor en COP$,NIT,NIT_1,Telefono,Telefono_1,Categoría de Gasto,Nombre del beneficiario,Nombre Beneficiario 1,Ciudad y direccion del Beneficiario,Ciudad Beneficiario 1,Pagado al Benficiario,Descripción del gasto/Evidencia,Relacionado en Informe del 24 de noviembre,ejecutor del gasto,DESEMBOLSADO AL EJECUTOR,Fecha de desembolso a ejecutor,ACTIVIDAD
+17,Efectivo,Equivalente,NO,2023-09-12,50.000,3146905,,3144778327,,TRANSPORTE,MAURICIO ARCADIO MARIN,,Cajica Vereda Aguanica Sector El Pomar,,SI,Transporte visita del PNUD Caminado GENER,SI,Andres,SI,,Espacio_Candidatos
+1,Efectivo,Equivalente,NO,2023-09-28,50.000,41726942,79.984.486,3202241974,3138056777,PUBLICIDAD,Clemencia Lopez,PUBLICIDAD JLG,Cajica Diagonal 4 3e-58,Chia Carrera 13 9-26,SI,"pendón 1.5 x 0,70  para actividades",SI,Clemencia,SI,,Espacio_Candidatos
+4,Efectivo,Equivalente,NO,2023-10-25,62.000,1070016619,,3208628691,,PUBLICIDAD,Andres Felipe Alarcon,LETRERO PRINT,Cajica carrera 4A Este 1-15,,SI,Banners logos colectivos y decalogo,SI,Andres,SI,,Espacio_Candidatos
+2,Efectivo,Factura,INNECESARIO,2023-10-27,4.350,,,,,PAPELERIA,SUMINISTROS ROA SAS,,,,SI,impresiones,SI,Clemencia,SI,,Talleres
+3,Efectivo,Cuenta-Cobro,NO,2023-10-28,130.000,3146704,,3103403014,,SONIDO,GEOVANY PAEZ,,Cajica,,SI,sonido candidatos,SI,Andres,SI,,Espacio_Candidatos
+5,Efectivo,Equivalente,NO,2023-10-29,150.000,79984486,,3138056777,,LOCACION,MINI MERCADO TABORA,,Cajica Calle 1 7A E 44-50,,SI,Casa Abuela Candidatos (hidratacion y espacio),SI,Andres,SI,,Espacio_Candidatos
+6,Efectivo,Equivalente,NO,2023-11-03,40.000,,,,,TRANSPORTE,ALBA MARINA CRISTANCHO,,,,SI,Viaticos Alba Bogota. Hotel Radison.PNUD. ,NO,Andres,SI,,Otros
+7,Nequi,Equivalente,NO,2023-11-04,32.500,1070016619,,3208628691,,REFRIGERIO,Andres Felipe Alarcon,CARLOS ERNESTO GALVIZ,Cajica carrera 4A Este 1-15,,SI,refrigerio salida campo humedal tingua familia,SI,Andres,SI,,Visitas_Humed
+35,,,,2023-11-04,200.000,,,,,HONORARIOS,Cajica Biodiversa,,,,,Anticipo Honorarios Equipo Biotico,NO,Andres,,,Visitas_Humed
+8,Efectivo,Equivalente,NO,2023-11-11,55.000,41726942,,3202241974,,REFRIGERIO,Clemencia Lopez,Picadas el Moreno,,,SI,Almuerzo salida campo Humedal Brinsa,SI,Clemencia,SI,,Visitas_Humed
+12,Efectivo,Factura,INNECESARIO,2023-11-14,2.500,,,,,PUBLICIDAD,CORRESPONSAL PAPELERIA,,,,SI,impresiones hojas asistencia,SI,Erika,,,Talleres
+9,Efectivo,Factura,INNECESARIO,2023-11-15,9.300,80500985,,3118788430,,PAPELERIA,PAPELERIA NELSON,,,,SI,Esferos para actividades,SI,Julian,PENDIENTE,,Talleres
+11,Efectivo,Factura,INNECESARIO,2023-11-15,39.600,107070802,,,,PAPELERIA,CORRESPONSAL PAPELERIA,,,,SI,Marcadores y papel actividades varias,SI,Julian,PENDIENTE,,Talleres
+13,Efectivo,Factura,INNECESARIO,2023-11-15,2.800,,,,,REFRIGERIO,RAMIREZ HNOS SAS,,,,,Servilletas,SI,Erika,,,Talleres
+10,Efectivo,Factura,INNECESARIO,2023-11-16,2.500,,,,,PAPELERIA,DOBLECLICK PAPELERIA,,,,SI,impresiones,SI,Julian,PENDIENTE,,Talleres
+14,Efectivo,Equivalente,NO,2023-11-16,54.400,,,,,REFRIGERIO,HOJALDRES ALADIN,,,,,Pasteles pollo,SI,Erika,,,Talleres
+15,Efectivo,Equivalente,NO,2023-11-16,53.000,,,3138056777,,PAPELERIA,Andres Felipe Alarcon,LETRERO PRINT,Cajica carrera 4A Este 1-15,,SI,Banner mapa Cajicá,SI,Andres,SI,,Talleres
+16,Efectivo,Equivalente,NO,2023-11-16,15.000,,,3115012786,,REFRIGERIO,Norma Constanza Cañon. Panaderia la Constancia,,Cajica. Calle 20 12-65,,SI,refrigerio organizadores ,SI,Erika,,,Talleres
+18,Efectivo,Equivalente,NO,2023-11-16,6.500,41726942,,3202241974,,REFRIGERIO,,DANIEL ALONSO ,,,SI,vasos carton,SI,Clemencia,SI,,Talleres
+19,Efectivo,Equivalente,NO,2023-11-16,41.000,41726942,51.686.917,3202241974,,PAPELERIA,Clemencia Lopez,CACHARRERIA LUZ,Cajica Diagonal 4 3e-58,,SI,"Tizas, cintas y otros materiales para talleres",SI,Clemencia,SI,,Talleres
+20,Efectivo,Equivalente,NO,2023-11-17,55.000,41726942,,3202241974,,REFRIGERIO,Clemencia Lopez,HOJALDRES ALADIN,Cajica Diagonal 4 3e-58,,SI,Pasteles pollo. Taller el Misterio,SI,Clemencia,SI,,Talleres
+21,Efectivo,Equivalente,NO,2023-11-17,8.500,41726942,,3202241974,,REFRIGERIO,Clemencia Lopez,PAPELERIA DE GLORIA,Cajica Diagonal 4 3e-58,,SI,paquete vasos,SI,Clemencia,SI,,Talleres
+22,Efectivo,Equivalente,,2023-11-17,6.870,,,3102301655,,TRANSPORTE,Sergio Piña,,,,SI,transporte a sitio de socializacion de materiales varios,NO,Sergio,PENDIENTE,,
+28,,Cuenta-Cobro,,2023-11-28,300.000,,,,,PUBLICIDAD,DAVID GOMEZ,,,,PENDIENTE,diseño flayer y logo. mas adicional de piezas individuales por cada dia del festival,NO,Andres,PENDIENTE,,Festival
+23,Nequi,Equivalente,,2023-11-29,36.000,1070009740-9,,3194677882,,PAPELERIA,HOME GRAPHICAL,,cajica. calle 2 2-82,,SI,9 afiches para promocion del festival,NO,Julian,PENDIENTE,,Comparsa
+24,Efectivo,Cuenta-Cobro,,2023-12-01,900.000,,,,,SONIDO,GEOVANY PAEZ,,,,SI,alquiler de sonido por los noviembre y diciembre,NO,Julian,SI,,Festival
+25,Nequi,,,2023-12-01,20.000,,,,,SONIDO,PROYECTO,,,,SI,saldo alquiler de sonido,NO,Julian,PENDIENTE,,
+27,Nequi,Equivalente,,2023-12-01,30.000,,,3112859732,,TRANSPORTE,CARLOS ?,,,,SI,acarreo de dos carpas de casa juventud a casa abuela,NO,Julian,PENDIENTE,,Comparsa
+29,,,,2023-12-01,0,,,,,,NINGUNO ANULADO,,,,,se unifica con el #28 ,,,,,
+30,Efectivo,,,2023-12-01,38.000,,,,,REFRIGERIO,,,,,SI,Pollo asado Casa Andres para trabajo fesival,NO,Andres,PENDIENTE,,Festival
+31,Efectivo,Factura,INNECESARIO,2023-12-01,38.000,79521808,,3112158340,,REFRIGERIO,RESTAURANTE HUMES,,,,SI,Refrigerio equipo logistico preparacion festival,NO,Andres,SI,,Festival
+32,Credito,Equivalente,,2023-12-01,102.200,,,,,LOCACION,StreamYard,,,,SI,streamyard para la transmision del foro tecnico,NO,Sergio,PENDIENTE,,Foro Tecnico
+37,Efectivo,Equivalente,NO,2023-12-02,150.000,79984486,,3138056777,,PAPELERIA,Publicidad JLG - Gabriel Amaya,,Chia Carrera 13 9-26,,SI,2 pendones 1.5x1 dibujos taller biogeografia,NO,Clemencia,PENDIENTE,,Festival
+50,Efectivo,Factura,INNECESARIO,2023-12-02,46.500,,,,,REFRIGERIO,D1 SAS,,,,SI,aguas comparsa 1,NO,Andres,SI,,Comparsa
+33,Nequi,,,2023-12-03,60.000,39626231,,3144272016,,LOCACION,Rosa Garcia,,CajicaCr 15 C bis A #1_51. Chuntame,,SI,Apoyo logistico en Comparsa,NO,Julian,PENDIENTE,,Comparsa
+34,Efectivo,Factura,,2023-12-03,6.450,900580849,,,,LOCACION,INVERSIONES LAITON SAS,,,,SI,bolsas de basura para comparsa,NO,Julian,PENDIENTE,,Comparsa
+36,Nequi,Equivalente,,2023-12-03,30.000,53178571,,3203029324,,REFRIGERIO,JENNY BLANCO,,,,SI,Refrigerio equipo logistico comparsa,NO,Andres,PENDIENTE,,Comparsa
+47,Efectivo,Factura,INNECESARIO,2023-12-03,37.500,,,,,REFRIGERIO,Cajican,,,,SI,Empanadas comparsa 2,NO,Andres,SI,,Comparsa
+49,Efectivo,Factura,INNECESARIO,2023-12-03,26.250,,,,,REFRIGERIO,D1 SAS,,,,SI,aguas comparsa 2,NO,Andres,SI,,Comparsa
+38,Nequi,Equivalente,,2023-12-04,25.000,1012420417,,3232354150,,REFRIGERIO,Cielo Yasmin Torres - capipan,,Cajica. Carrer9 calle 20 esquina,,SI,Abono 50 buñuelos. 50x1000 para cine foro,NO,Julian,PENDIENTE,,Cineforo
+48,Nequi,Equivalente,,2023-12-04,112.000,,,,,REFRIGERIO,,,,,SI,empanadas comparsa 1 Daniel,NO,Andres,SI,,Comparsa
+52,Nequi,Equivalente,,2023-12-04,20.000,,,,,REFRIGERIO,Jenny Blanco,,,,SI,refrigerio equipo logistico 2 comparsa,NO,Andres,PENDIENTE,,Comparsa
+39,Nequi,Equivalente,,2023-12-05,25.000,11522082,,3203852495,,LOCACION,Freddy Rivera,,Cajica. Colegio Pablo Herrera Chuntame,,SI,Abono cuña perifoneo para Festival,NO,Julian,PENDIENTE,,Festival
+41,Efectivo,Equivalente,,2023-12-05,19.500,80467635,,3212430436,,REFRIGERIO,Panaderia Delipan - Luis Pedraza,,Cajica. cr 6 8-19,,SI,Refrigerio acticidad adulto mayor taller literario,NO,Erika,PENDIENTE,,Taller_Literario
+42,Efectivo,Factura,,2023-12-05,10.950,900580849,,8826792,,REFRIGERIO,Inversiones Laiton,,,,SI,Refrigerio acticidad adulto mayor taller literario,NO,Erika,PENDIENTE,,Taller_Literario
+43,Nequi,Equivalente,,2023-12-05,25.000,1012420417,,3232354150,,REFRIGERIO,Cielo Yasmin Torres - capipan,,Cajica. Carrer9 calle 20 esquina,,SI,Saldo 50 buñuelos cine foro,NO,Julian,PENDIENTE,,Cineforo
+44,Efectivo,Factura,INNECESARIO,2023-12-05,21.000,,,,,REFRIGERIO,Tiendas Ara,,,,SI,Cubiertos para Natilla Comunidad,NO,Clemencia,PENDIENTE,,Festival
+45,Efectivo,Factura,INNECESARIO,2023-12-05,15.900,,,,,REFRIGERIO,Maximercas SAS,,,,SI,Insumos Natilla Comunidad,NO,Clemencia,PENDIENTE,,Festival
+46,Efectivo,Factura,INNECESARIO,2023-12-05,25.900,,,,,REFRIGERIO,D1 SAS,,,,SI,Insumos Natilla Comunidad,NO,Clemencia,PENDIENTE,,Festival
+40,Nequi,Equivalente,,2023-12-06,25.000,11522082,,3203852495,,LOCACION,Freddy Rivera,,Cajica. Colegio Pablo Herrera Chuntame,,SI,Saldo cuña perifoneo festival,NO,Julian,PENDIENTE,,Festival
+51,Efectivo,Factura,INNECESARIO,2023-12-08,77.000,,,,,REFRIGERIO,GLORMA SAS,,,,SI,almuerzos equipo logistico fiesta tematica cierre fest,NO,Andres,SI,,Fiesta_Tematica
+61,,Equivalente,,2023-12-12,249.000,,,,,PUBLICIDAD,Letrero Print,,,,NO,Metro de Stickers aves y banner 120x160,NO,Andres,,,Festival
+26,Nequi,Cuenta-Cobro,,,480.000,,,3144778327,,TRANSPORTE,MAURICIO ARCADIO MARIN,,Cajica Vereda Aguanica Sector El Pomar,,,"Transporte festival rio, apoyo logistico comparsa, cineforo, cierre, transpore personal e insumos ",NO,Julian,,,Festival
+53,,Cuenta-Cobro,,,400.000,,,,,HONORARIOS,Cajica Biodiversa,,,,NO,Saldo Honorarios Equipo Biotico,NO,Andres,,,Visitas_Humed
+54,,Cuenta-Cobro,,,300.000,,,,,HONORARIOS,DJ Lucho,,,,NO,Honorarios DJ fiesta tematica incluyo equipos DJ y viaticos,NO,Andres,,,Fiesta_Tematica
+55,,Cuenta-Cobro,,,100.000,,,,,HONORARIOS,Sebastian Beltran,,,,NO,VJ efectos visuales fiesta tematica,NO,Andres,,,Fiesta_Tematica
+56,,Cuenta-Cobro,,,250.000,,,,,LOCACION,MINI MERCADO TABORA,,Cajica Calle 1 7A E 44-50,,NO,"Locacion Casa Abuela Fiesta Tematica, y Circulo de Palabra. Incluyendo hidratacion y espacio",NO,Andres,,,Fiesta_Tematica
+57,,Equivalente,,,240.000,,,,,REFRIGERIO,Bold Restaurante Cafe,,,,SI,Almuerzos 2 equipo logistico y artistas comparsa,NO,Sergio,,,Comparsa
+58,,Cuenta-Cobro,,,100.000,,,,,HONORARIOS,CARLOS ERNESTO GALVIZ,,,,NO,tallerista taller literario adulto mayor club edad oro,NO,Erika,,,Taller_Literario
+59,,Cuenta-Cobro,,,200.000,,,,,LOCACION,Cristian Ramirez,,,,NO,Alquiler VideoBeam para Fiesta Tematica y CineForo,NO,Andres,,,Cineforo
+60,,Cuenta-Cobro,,,100.000,,,,,HONORARIOS,John Papo,,,,NO,Reconocimiento a equipo Tabio proyeccion documental,NO,Andres,,,Cineforo
+61,,Cuenta-Cobro,,,500.000,,,,,HONORARIOS,Colectivo Cusumbu ,,,,NO,Apoyo artistas de la Comparsa en Festival Rio,NO,Erika,,,Comparsa
+62,,,,,,,,,,,,,,,,transcripcion clemencia,,,,,
+63,,,,,2000000,,,,,HONORARIOS,Colectivo Cuidadores,,,,,Honorarios Equipo ,,,,,Otros
+64,,,,,444.000,,,,,,Gastos Financieros,,,,,Gastos Financieros,,,,,Otros
+65,,,,,1160000,,,,,HONORARIOS,,,,,,data base,,,,,Otros

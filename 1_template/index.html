@@ -1,0 +1,114 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Ejemplo de Cuadro con Estilos</title>
+    <style>
+        body {{
+            margin: 0;
+            padding: 0;
+            font-family: Arial, sans-serif;
+        }} 
+
+        #cuadroPrincipal {{
+            width: 40%;
+            margin: 50px auto;
+            text-align: center;
+            border: 2px solid #333;
+            padding: 20px;
+        }}
+        
+        #cuadroPrincipal h1 {{
+            color: #333;
+            font-size: 1.5em;
+            margin-bottom: 10px;
+        }}
+        #cuadroPrincipal h2 {{
+            color: #333;
+            font-size: 1.2em;
+            margin-bottom: 10px;
+        }}
+        
+        #cuadroPrincipal p {{
+            color: #555;
+            margin-bottom: 10px;
+        }}
+        
+        .cuadroInfo1,
+        .cuadroInfo2,
+        .operacionCuadro {{
+            text-align: left;
+            margin: 20px; /* Añadir márgenes visibles */
+            border: 1px solid #333; /* Añadir borde para márgenes visibles */
+            padding: 10px; /* Agregar relleno para mejorar la presentación */
+        }}
+        
+                
+        .cuadroInfo1 h3 {{
+            color: #333;
+            font-size: 1.1em;
+            margin-bottom: 5px;
+        }}
+
+        .cuadroInfo1 p {{
+            color: #555;
+            margin-bottom: 5px;
+        }}
+
+        .cuadroInfo2 p,
+        .operacionCuadro p {{
+            color: #555;
+            margin-bottom: 5px;
+        }}
+
+        .operacionCuadro h3 {{
+            color: #333;
+            font-size: 1.1em;
+            margin-bottom: 5px;
+        }}
+
+        .notaFinal {{
+            font-size: 0.8em;
+            color: #777;
+        }}
+
+        
+    </style>
+
+</head>
+<body>
+
+    <div id="cuadroPrincipal">
+        <h1>DOCUMENTO EQUIVALENTE A FACTURA DE VENTA</h1>
+        <h2>Decreto No. 522/2003 Art. 03</h2>
+        <p>Para personas naturales no comerciantes o inscritas en Régimen Simplificado</p>
+
+        <div class="cuadroInfo1">
+            <h3>Razon Social: Cuidadores del Territorio(Clemencia Lopez Pinilla)</h3>
+            <p>DIRECCIÓN: Diagonal 4 3e-58. Cajica</p>
+            <p>NIT/CC: 41.726.942</p>
+            <p>Telefono: 320.224.1974</p>
+        </div>
+
+        <div class="cuadroInfo2">
+            <p>1-FECHA DE LA TRANSACCIÓN: {Fecha}</p>
+            <p>2 - NIT/CC: {NIT}</p> 
+            <p>3 - NOMBRE Y APELLIDOS DEL BENEFICIARIO DEL PAGO: {Nombre}</p>
+            <p>4 - TELÉFONO: {Telefono}</p>
+            <p>5 - CIUDAD Y DIRECCIÓN DEL BENEFICIARIO DEL PAGO: {Direccion}</p>
+            <p>6 - CONCEPTO: {Concepto}. {Actividad}</p>
+        </div>
+
+        <div class="operacionCuadro">
+            <h3>7 - VALOR DE LA OPERACIÓN: {Valor} </h3>
+            <p>8 - Retencion en la Fuente: $0</p>
+            <p>9 - Valor a pagar: {Valor}</p>
+            <p>10 - Firma</p>
+        </div>
+        
+        <p class="notaFinal">Nota: Las personas inscritas en Régimen Simplificado, adjuntar fotocopia del RUT, las personas no comerciantes, adjuntar fotocopia de la Cédula de Ciudadanía.</p>
+    </div>
+
+</body>
+</html>

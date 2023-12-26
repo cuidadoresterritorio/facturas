@@ -1,0 +1,26 @@
+body {
+    margin: 20px; /* Ajusta el margen del cuerpo de la página */
+}
+
+#cuadroGrande {
+    border: 2px solid #333; /* Borde del cuadro grande */
+    padding: 20px; /* Relleno del cuadro grande */
+    margin-bottom: 20px; /* Margen inferior del cuadro grande */
+    width: calc(40% - 40px); 
+    text-align: center;
+}
+
+#cuadroPequeno {
+    border: 1px solid #555; /* Borde del cuadro pequeño */
+    padding: 10px; /* Relleno del cuadro pequeño */
+}
+
+#cuadroGrande h2 {
+    color: #333; /* Color del texto */
+    margin-bottom: 5px; /* Margen inferior del título */
+    margin-top: 5px;
+}
+
+#cuadroGrande h4 {
+    color: #333;
+}

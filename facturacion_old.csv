@@ -1,0 +1,46 @@
+# factura,Medio de Pago,Documento Ref.,"Fecha Efectiva de Pago
+(DD/MM/AA)",Valor en COP$,NIT,Telefono,Categoría de Gasto,Nombre del beneficiario,Ciudad y direccion del Beneficiario,Pagado al Benficiario,Descripción del gasto/Evidencia,Relacionado en Informe del 24 de noviembre,ejecutor del gasto,DESEMBOLSADO AL EJECUTOR,Fecha de desembolso a ejecutor,ACTIVIDAD
+1,Efectivo,Equivalente,2023-09-28,50.000,,,PUBLICIDAD,PUBLICIDAD JLG,,,pendón ,SI,Clemencia,,,Espacio_Candidatos
+2,Efectivo,Fisica,2023-10-27,4.350,,,PAPELERIA,SUMINISTROS ROA SAS,,,impresiones,SI,Clemencia,,,Talleres
+3,Efectivo,Digital,2023-10-28,130.000,,,SONIDO,GEOVANY PAEZ,,,sonido candidatos,SI,Andres,,,Espacio_Candidatos
+4,Efectivo,Digital,2023-10-25,62.000,,,PUBLICIDAD,LETRERO PRINT,,,Banners logos colectivos,SI,Andres,,,Espacio_Candidatos
+5,Efectivo,Equivalente,2023-10-29,150.000,,,LOCACION,MINI MERCADO TABORA,,,Casa Abuela Candidatos (hidratacion y espacio),SI,Andres,,,Espacio_Candidatos
+6,Efectivo,PENDIENTE,2023-11-03,40.000,,,TRANSPORTE,ALBA MARINA CRISTANCHO,,,Viaticos Alba Bogota,NO,Andres,,,
+7,Nequi,PENDIENTE,2023-11-04,32.500,,,REFRIGERIO,CARLOS ERNESTO GALVIZ,,,refrigerio salida campo,SI,Andres,,,Visitas_Humed
+8,Efectivo,Equivalente,2023-11-11,55.000,,,REFRIGERIO,Picadas el Moreno,,,Almuerzo salida campo,SI,Clemencia,,,Visitas_Humed
+9,Efectivo,Fisica,2023-11-16,9.300,,,PAPELERIA,PAPELERIA NELSON,,SI,Esferos,SI,Julian,PENDIENTE,,Talleres
+10,Efectivo,Fisica,2023-11-16,2.500,,,PAPELERIA,DOBLECLICK PAPELERIA,,SI,impresiones,SI,Julian,PENDIENTE,,Talleres
+11,Efectivo,Fisica,2023-11-16,39.600,,,PAPELERIA,CORRESPONSAL PAPELERIA,,SI,Marcadores y papel,SI,Julian,PENDIENTE,,Talleres
+12,Efectivo,Fisica,2023-11-16,2.500,,,REFRIGERIO,CORRESPONSAL PAPELERIA,,,impresiones,SI,Erika,,,Talleres
+13,Efectivo,Fisica,2023-11-16,2.800,,,REFRIGERIO,RAMIREZ HNOS SAS,,,Servilletas,SI,Erika,,,Talleres
+14,Efectivo,PENDIENTE,2023-11-16,54.400,,,REFRIGERIO,HOJALDRES ALADIN,,,Pasteles pollo,SI,Erika,,,Talleres
+15,Efectivo,DIGITAL PEND,2023-11-16,53.000,,,PAPELERIA,LETRERO PRINT,,,Banner mapa Cajicá,SI,Andres,,,Talleres
+16,Efectivo,Equivalente,2023-11-16,15.000,,,REFRIGERIO,Norma Constanza Cañon. Panaderia la Constancia,Cajica. Calle 20 12-65,SI,refrigerio organizadores ,SI,Erika,,,Talleres
+17,Efectivo,,2023-09-12,50.000,,,TRANSPORTE,MAURICIO ARCADIO MARIN,,,Transporte GENER,SI,Andres,,,Espacio_Candidatos
+18,Efectivo,Equivalente,2023-11-16,6.500,,,REFRIGERIO,DANIEL ALONSO ,,,vasos carton,SI,Clemencia,,,Talleres
+19,Efectivo,Equivalente,2023-11-16,41.000,,,PAPELERIA,CACHARRERIA LUZ,,,"tizas, cintas,copitos",SI,Clemencia,,,Talleres
+20,Efectivo,Equivalente,2023-11-17,55.000,,,REFRIGERIO,HOJALDRES ALADIN,,,Pasteles pollo,SI,Clemencia,,,Talleres
+21,Efectivo,Equivalente,2023-11-17,8.500,,,REFRIGERIO,PAPELERIA DE GLORIA,,,paquete vasos,SI,Clemencia,,,Talleres
+22,Efectivo,Equivalente,2023-11-17,6.870,,3102301655,TRANSPORTE,Sergio Piña,,NO,transporte a sitio de socializacion de materiales varios,NO,Sergio,PENDIENTE,,
+23,Nequi,Equivalente,2023-11-29,36.000,1070009740-9,3194677882,PAPELERIA,HOME GRAPHICAL,cajica. calle 2 2-82,SI,9 afiches para promocion del festival,NO,Julian,PENDIENTE,,Comparsa
+24,Efectivo,,2023-12-01,950.000,,,SONIDO,,,SI,alquiler de sonido,NO,Julian,SI,,
+25,Nequi,,2023-01-01,20.000,,,SONIDO,PROYECTO,,SI,saldo alquiler de sonido,NO,Julian,PENDIENTE,,
+26,Nequi,,2023-12-01,100.000,,,TRANSPORTE,MAURICIO ARCADIO MARIN,,SI,transporte al centro para sonido,NO,Julian,PENDIENTE,,
+27,Nequi,Equivalente,2023-12-01,30.000,,3112859732,TRANSPORTE,CARLOS ?,,SI,acarreo de dos carpas de casa juventud a casa abuela,NO,Julian,PENDIENTE,,Comparsa
+28,,Cuenta-Cobro,2023-11-28,250.000,,,PUBLICIDAD,DAVID GOMEZ,,PENDIENTE,diseño flayer y logo,NO,Andres,PENDIENTE,,Festival
+29,,Equivalente,2023-12-01,50.000,,,PUBLICIDAD,DAVID GOMEZ,,PENDIENTE,adicional piezas de convocatoria por dia del festival,NO,Andres,PENDIENTE,,Festival
+30,Efectivo,,2023-12-01,38.000,,,REFRIGERIO,,,SI,Pollo asado Casa Andres para trabajo fesival,NO,Andres,PENDIENTE,,Festival
+31,Efectivo,Factura,2023-12-01,38.000,79521808,3112158340,REFRIGERIO,RESTAURANTE HUMES,,SI,Refrigerio equipo logistico preparacion festival,NO,Sergio,PENDIENTE,,Festival
+32,Credito,,2023-12-01,102.200,,,LOCACION,StreamYard,,SI,streamyard para la transmision del foro tecnico,NO,Sergio,PENDIENTE,,Foro Tecnico
+33,Nequi,,2023-12-03,60.000,39626231,3144272016,LOCACION,Rosa Garcia,CajicaCr 15 C bis A #1_51. Chuntame,SI,Apoyo logistico en Comparsa,NO,Julian,PENDIENTE,,Comparsa
+34,Efectivo,Factura,2023-12-03,6.450,900580849,,LOCACION,INVERSIONES LAITON SAS,,SI,bolsas de basura para comparsa,NO,Julian,PENDIENTE,,Comparsa
+35,,,2023-11-04,200.000,,,HONORARIOS,,,,Anticipo Honorario Equipo Biotico,NO,Andres,,,Visitas_Humed
+36,Nequi,,2023-12-03,30.000,53178571,3203029324,REFRIGERIO,JENNY BLANCO,,SI,Refrigerio equipo logistico comparsa,NO,Andres,PENDIENTE,,Comparsa
+37,Efectivo,,2023-12-02,150.000,79984486,3138056777,PAPELERIA,Publicidad JLG - Gabriel Amaya,,SI,2 pendones 1.5x1 dibujos taller biogeografia,NO,Clemencia,PENDIENTE,,Festival
+38,Nequi,Equivalente,2023-12-04,25.000,1012420417,3232354150,REFRIGERIO,Cielo Yasmin Torres - capipan,Cajica. Carrer9 calle 20 esquina,SI,Abono 50 buñuelos. 50x1000 para cine foro,NO,Julian,PENDIENTE,,Cineforo
+39,Nequi,Equivalente,2023-12-05,25.000,11522082,3203852495,LOCACION,Freddy Rivera,Cajica. Colegio Pablo Herrera Chuntame,SI,Abono cuña perifoneo para Festival,NO,Julian,PENDIENTE,,Festival
+40,Nequi,Equivalente,2023-12-06,25.000,11522082,3203852495,LOCACION,Freddy Rivera,Cajica. Colegio Pablo Herrera Chuntame,SI,Saldo cuña perifoneo festival,NO,Julian,PENDIENTE,,Festival
+41,Efectivo,Equivalente,2023-12-05,19.500,80467635,3212430436,REFRIGERIO,Panaderia Delipan - Luis Pedraza,Cajica. cr 6 8-19,SI,Refrigerio acticidad adulto mayor taller literario,NO,Erika,PENDIENTE,,Taller_Literario
+42,Efectivo,Factura,2023-12-05,10.950,900580849,8826792,REFRIGERIO,Inversiones Laiton,,SI,Refrigerio acticidad adulto mayor taller literario,NO,Erika,PENDIENTE,,Taller_Literario
+43,Nequi,Equivalente,2023-12-05,25.000,1012420417,3232354150,REFRIGERIO,Cielo Yasmin Torres - capipan,Cajica. Carrer9 calle 20 esquina,SI,Saldo 50 buñuelos cine foro,NO,Julian,PENDIENTE,,Cineforo
+44,,,,,,,,,,,,,,,,
